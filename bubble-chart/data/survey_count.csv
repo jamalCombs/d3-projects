@@ -1,0 +1,34 @@
+word,occurrence,emotion
+adequate,1,positive
+alone,1, negative
+appreciated,3, positive
+certain,,positive
+challenged,1,negative
+comfortable,3,positive
+connected,1,positive
+dedicated,1,positive
+determined,1,positive
+encouraged,2,positive
+excited,2,positive
+exempt,1,positive
+focused,2,positive
+free,2,positive
+frustrated,1,negative
+great,5,positive
+happy,1,positive
+important,4,positive
+independent,1,positive
+lost,1,negative
+loved,1,positive
+low,5,negative
+lucky,1,positive
+motivated,3,positive
+needed,7,negative
+overwhelmed,3,negative
+responsible,1,positive
+secure,1,positive
+significant,2,positive
+strong,2,positive
+supported,1,positive
+surprised,1,positive
+understood,1,positive

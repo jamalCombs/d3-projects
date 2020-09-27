@@ -1,0 +1,20 @@
+body {
+    background-color: #04C2F5;
+}
+
+div.tooltip {
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    background: none repeat scroll 0 0 white;
+    border: 0 none;
+    border-radius: 5px;
+    box-shadow: 0px 5px 15px rgb(68, 68, 79, .10);
+    color: #002E72;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    text-transform: capitalize;
+    padding: 20px;
+    text-align: center;
+}
